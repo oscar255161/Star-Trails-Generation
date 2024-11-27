@@ -1,4 +1,4 @@
-# ADIP Final Project: Star Trails Generation with Python
+# ADIP Final Project: Star Trails Generation 
 
 ## Introduction  
 This project focuses on transforming static starry sky images into dynamic star trail animations in GIF format using Python. The process involves three main stages:
