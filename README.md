@@ -66,7 +66,7 @@ The workflow is divided into three main parts:
 - **Auto Find Star**: Automatically detect the brightest star.  
 - **Manual Mode**: Select any star as the center of rotation using the mouse.  
 
-![UI Screenshot](images/ui_example.png)
+
 
 ---
 
